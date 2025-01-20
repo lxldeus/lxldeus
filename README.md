@@ -1,4 +1,4 @@
-## Hi there 👋
+Deu pregui de terminar dps
 
 <!--
 **lxldeus/lxldeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
