@@ -1,4 +1,3 @@
-Deu pregui de terminar dps c++ young, reverse enginner begginer
 
 <!--
 **lxldeus/lxldeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
